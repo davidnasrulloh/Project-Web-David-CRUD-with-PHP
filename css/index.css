@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    font-size: 30px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    /* display: flex; */
+    height: 200px;
+    background-color: grey;
+    /* width: 100%; */
+    text-align: center;
+}
+
+.header h1 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.button-utama {
+    /* padding: 50px; */
+    margin-top: 20px;
+    padding-bottom: 30px;
+    margin-right: 20px;
+}
+
+.button-utama button {
+    width: 120px;
+}
+
+.cari {
+    height: 38px;
+    padding-inline-start: 10px;
+    margin-top: 20px;
+}
+
+form .input-keyword {
+    display: inline;
+    margin-left: 20px;
+}
+
+.tengah {
+    display: flex;
+}
+
+table {
+    text-align: center;
+}
+
+.head-table {
+    background-color: blueviolet;
+    color: white;
+}
+
+form label {
+    padding-bottom: 10px;
+}

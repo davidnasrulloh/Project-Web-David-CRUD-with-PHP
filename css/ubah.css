@@ -1,0 +1,14 @@
+.judul-atas {
+    padding-top: 50px;
+}
+
+.bungkus {
+    background-color: wheat;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+form label {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
